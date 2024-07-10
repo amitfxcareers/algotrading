@@ -2,10 +2,99 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-lg-3"></div>
-            <div class="col-lg-3"></div>
-            <div class="col-lg-3"></div>
-            <div class="col-lg-3"></div>
+            <div class="col-lg-3">
+                <div class="footer-logo">
+                    <img src="assets/images/algo-logo.png" width="90%" class="img-fluid">
+                </div>
+                <div class="social-media-icon">
+                  <a href="#"> <i class="fa-brands fa-facebook"></i></a>
+                  <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                  <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
+                  <a href="#"> <i class="fa-brands fa-instagram"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="footer-explore">
+                    <h4 class="black">
+                        Explore
+                    </h4>
+                    <ul>
+                        <li>
+                            <a href="phoenix.php">
+                                Phoenix
+                            </a>
+                        </li>
+                        <li>
+                            <a href="odyssey.php">
+                                Odyssey
+                            </a>
+                        </li>
+                        <li>
+                            <a href="enterprise.php">
+                                Enterprise
+                            </a>
+                        </li>
+                        <li>
+                            <a href="ecosystem.php">
+                                Our Ecosystem
+                            </a>
+                        </li>
+                        <li>
+                            <a href="pricing.php">
+                                Pricing
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="footer-explore">
+                    <h4 class="black">
+                        Contact
+                    </h4>
+                    <ul>
+                        <li>
+                            <a href="#">
+                                Apply As Strategist
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Apply As Broker
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Apply As Partner
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="footer-explore">
+                    <h4 class="black">
+                        Contact
+                    </h4>
+                    <ul>
+                        <li>
+                            <a href="#">
+                                Apply As Strategist
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Apply As Broker
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Apply As Partner
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
         <div class="row mt-4">
             <div class="col-lg-12">
