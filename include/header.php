@@ -28,27 +28,27 @@
                <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                   <ul class="navbar-nav">
                      <li class="nav-item">
-                        <a href="blog.php" class="nav-link" role="button" aria-expanded="false">
+                        <a href="phoenix.php" class="nav-link" role="button" aria-expanded="false">
                         Phoenix
                         </a>
                      </li>
                      <li class="nav-item">
-                        <a href="blog.php" class="nav-link" role="button" aria-expanded="false">
+                        <a href="odyssey.php" class="nav-link" role="button" aria-expanded="false">
                         Odyssey
                         </a>
                      </li>
                      <li class="nav-item">
-                        <a href="blog.php" class="nav-link" role="button" aria-expanded="false">
+                        <a href="enterprise.php" class="nav-link" role="button" aria-expanded="false">
                         Enterprise
                         </a>
                      </li>
                      <li class="nav-item">
-                        <a href="blog.php" class="nav-link" role="button" aria-expanded="false">
+                        <a href="ecosystem.php" class="nav-link" role="button" aria-expanded="false">
                         Our Ecosystem
                         </a>
                      </li>
                      <li class="nav-item">
-                        <a href="blog.php" class="nav-link" role="button" aria-expanded="false">
+                        <a href="pricing.php" class="nav-link" role="button" aria-expanded="false">
                         Pricing
                         </a>
                      </li>
