@@ -3,3 +3,12 @@
         display: none;
     }
 }
+@media(max-width:1199.98px) {
+    #navbarNav {
+        display: none !important;
+    }
+
+    .request-quote {
+        display: none;
+    }
+}
