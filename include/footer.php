@@ -18,7 +18,7 @@
                     <h4 class="black">
                         Explore
                     </h4>
-                    <ul>
+                    <ul class="footer-list">
                         <li>
                             <a href="phoenix.php">
                                 Phoenix
@@ -52,7 +52,7 @@
                     <h4 class="black">
                         Contact
                     </h4>
-                    <ul>
+                    <ul class="footer-list">
                         <li>
                             <a href="#">
                                 Apply As Strategist
@@ -76,26 +76,21 @@
                     <h4 class="black">
                         Contact
                     </h4>
-                    <ul>
+                    <ul class="footer-list">
                         <li>
-                            <a href="#">
-                                Apply As Strategist
-                            </a>
+                            <i class="fa-solid fa-phone"></i> +357 22030234
                         </li>
                         <li>
-                            <a href="#">
-                                Apply As Broker
-                            </a>
+                            <i class="fa-solid fa-location-dot"></i> Nassima Tower - 701 Sheikh Zayed Rd - Trade Centre - Trade Centre 1 - Dubai
                         </li>
                         <li>
-                            <a href="#">
-                                Apply As Partner
-                            </a>
+                            <i class="fa-solid fa-envelope"></i> support@algotrading.com
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
+        <hr class="hr-line">
         <div class="row mt-4">
             <div class="col-lg-12">
                 <div class="footer-info">

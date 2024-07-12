@@ -6,6 +6,7 @@
     --white: #fff;
     --black: #000;
     --light-blue: #F8FAFD;
+    --text: #010101;
 }
 
 /*Menu*/
@@ -258,4 +259,16 @@ footer{
 }
 .social-media-icon{
     margin-top: 50px;
+}
+.footer-explore .footer-list li a{
+    color: var(--text);
+    text-decoration: none;
+    font-size: 14px;
+}
+.footer-explore .footer-list{
+    list-style: none;
+    padding: 0;
+}
+.hr-line{
+    color: var(--primary);
 }
