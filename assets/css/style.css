@@ -7,6 +7,10 @@
     --black: #000;
     --light-blue: #F8FAFD;
     --text: #010101;
+    --heading-color: #213654;
+}
+a{
+    text-decoration: none;
 }
 
 /*Menu*/
@@ -271,4 +275,50 @@ footer{
 }
 .hr-line{
     color: var(--primary);
+}
+
+.trading-excellence{
+    background: url(https://algobulls.com/img/inner-hero-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 8px 24px hsla(210, 8%, 62%, .2);
+    padding: 80px 0;
+    margin: 50px 0;
+}
+.mainheading{
+    color: var(--heading-color);
+    font-size: 42px;
+    font-weight: 800;
+}
+.cta_one{
+    background: var(--primary);
+    border-radius: 4px;
+    color: var(--white);
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 30px;
+    text-align: center;
+    margin-right: 20px;
+    border: 1px solid var(--primary);
+    transition-duration: 0.2s;
+}
+.cta_two{
+    background: transparent;
+    border: 1px solid var(--primary);
+    color: var(--primary);
+    padding: 15px 30px;
+    border-radius: 4px;
+    transition-duration: 0.2s;
+}
+.cta_one:hover{
+    background: transparent;
+    border: 1px solid var(--primary);
+    color: var(--primary);
+    transition-duration: 0.2s;
+}
+.cta_two:hover{
+    background: var(--primary);
+    color: var(--white);
+    transition-duration: 0.2s;
 }
