@@ -1,8 +1,8 @@
 <?php include_once('./include/header.php') ?>
 
-<section class="banner" style="background-image: url(https://algobulls.com/img/inner-hero-build.svg);">
+<section class="banner">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-md-6">
                 <div class="banner-content">
                     <h1 class=primary-heading>
@@ -24,24 +24,64 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="banner-carousle">
-                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="https://algobulls.com/img/Phoenix%20Analytics.png" class="d-block w-100"
-                                    alt="...">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="https://algobulls.com/img/Phoenix%20Analytics.png" class="d-block w-100"
-                                    alt="...">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="https://algobulls.com/img/Phoenix%20Analytics.png" class="d-block w-100"
-                                    alt="...">
+                <div class="hero-empowerment-right-content">
+                        <div class="top-content">
+                            <img class="img-fluid desktop fade-in" src="https://wpriverthemes.com/HTML/synck/assets/imgs/bg1-1.png" alt="Empowerment">
+                            <img class="img-fluid mobile" src="https://wpriverthemes.com/HTML/synck/assets/imgs/bg1.png" alt="Empowerment">
+
+                            <div class="experience-box simple-shadow bounce-in">
+                                <div class="experience-body d-flex align-items-center">
+                                    <img src="https://wpriverthemes.com/HTML/synck/assets/imgs/icon1.svg" alt="Icon" class="img-fluid">
+
+                                    <div class="experience-content d-flex align-items-center">
+                                        <h2>+8</h2>
+                                        <p>
+                                            Years
+                                            <span>Experience</span>
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+
+                        <div class="bottom-content d-flex">
+                            <a href="./team.html" class="our-expert-team-box simple-shadow bounce-in delay-2">
+                                <div class="our-expert-team-box-inner d-flex align-items-center">
+                                    <div class="imgs imgs1 d-flex align-items-center">
+                                        <img src="https://wpriverthemes.com/HTML/synck/assets/imgs/small-img-4.png" alt="team" class="img-fluid">
+                                        <img src="https://wpriverthemes.com/HTML/synck/assets/imgs/small-img-4.png" alt="team" class="img-fluid">
+                                        <img src="https://wpriverthemes.com/HTML/synck/assets/imgs/small-img-4.png" alt="team" class="img-fluid">
+                                        <img src="https://wpriverthemes.com/HTML/synck/assets/imgs/small-img-4.png" alt="team" class="img-fluid">
+                                    </div>
+                                    <p>
+                                        Meet
+                                        <span>Our Experts</span>
+                                    </p>
+                                </div>
+                            </a>
+
+                            <div class="google-reviews-box simple-shadow bounce-in delay-3">
+                                <div class="left">
+                                    <span>Verified by</span>
+                                    <img src="https://wpriverthemes.com/HTML/synck/assets/imgs/icon2.svg" alt="Google" class="img-fluid">
+                                </div>
+                                <div class="right">
+                                    <div class="stars d-flex align-items-center">
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                    </div>
+                                    <p>
+                                        3245
+                                        <span>Reviews</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
-                </div>
             </div>
         </div>
     </div>
