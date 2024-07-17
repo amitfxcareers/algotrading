@@ -24,6 +24,8 @@ a{
 .subheading{
     color: var(--heading-color);
     font-size: 21px;
+    border-bottom: 1px solid var(--black);
+    width: fit-content;
 }
 .mainheading{
     color: var(--heading-color);
@@ -339,8 +341,7 @@ footer{
     background: var(--light-blue);
 }
 .featured-on .subheading{
-    border-bottom: 1px solid var(--black);
-    width: fit-content;
+    
 }
 .featured-web{
     display: flex;
@@ -364,4 +365,9 @@ footer{
     padding: 80px 0;
     background-repeat: no-repeat;
     background-position: center;
+}
+.our-vision{
+    padding: 100px 0;
+    background-repeat: no-repeat;
+    background-position: right;
 }
