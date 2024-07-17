@@ -18,7 +18,7 @@
    <body>
       <header class="header navbar-dark" id="StickyHeader">
          <nav class="navbar navbar-expand-lg p-0">
-            <div class="container-fluid">
+            <div class="container">
                <a class="navbar-brand" href="index.php">
                <img src="assets/images/algo-logo.png" class="header-logo" alt="Logo" title="nxg Logo">
                </a>

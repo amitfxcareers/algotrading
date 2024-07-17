@@ -2,7 +2,7 @@
 :root {
     --opacity: 1;
     --primary: #00C0F3;
-    --secondary: #F82249;
+    --secondary: #0077C0;
     --white: #fff;
     --black: #000;
     --light-blue: #F8FAFD;
@@ -11,6 +11,15 @@
 }
 a{
     text-decoration: none;
+}
+.primary-heading{
+    color: var(--secondary);
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 70px;
+}
+.primary-para{
+    font-size: 20px;
 }
 .subheading{
     color: var(--heading-color);
@@ -347,4 +356,12 @@ footer{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+.banner-content h1 span{
+    color: var(--primary);
+}
+.banner{
+    padding: 80px 0;
+    background-repeat: no-repeat;
+    background-position: center;
 }
