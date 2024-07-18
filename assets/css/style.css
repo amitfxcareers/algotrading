@@ -385,14 +385,14 @@ footer{
     margin-bottom: 24px;
 }
 .top-content .mobile {
-    display: none;
+    border-radius: 50% 0%;
 }
 .top-content .experience-box {
     position: absolute;
     bottom: 0;
     left: 0;
     background: var(--light-blue);
-    border-radius: 10px;
+    border-radius: 10px 10px 10px 0;
     padding: 41px 71px;
 }
 .top-content .experience-box .experience-body {
