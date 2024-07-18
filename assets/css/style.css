@@ -492,3 +492,30 @@ footer{
     color: #ffd600;
     font-size: 21px;
 }
+.our-solution-section{
+    padding: 80px 0;
+}
+.our-solution-section .subheading{
+    margin: 0 auto 20px;
+}
+.our_solutions_list .nav-link{
+    color: var(--primary);
+    padding: 10px 30px;
+}
+.our_solutions_list .list_solutions{
+    background: var(--light-blue);
+    padding: 10px;
+    border-radius: 10px;
+}
+.our_solutions_list .nav-pills .nav-link.active{
+    background: var(--secondary);
+    padding: 10px 30px;
+}
+.our_solutions_list #pills-tabContent {
+    padding: 50px 0;
+    border-radius: 10px;
+    background: var(--light-blue);
+}
+.our_solutions_list #pills-tabContent img{
+    width: 60%;
+}
