@@ -161,11 +161,13 @@
                     <ul class="nav nav-pills mb-3 list_solutions" id="pills-tab" role="tablist">
                         <li class="nav-item" role="presentation">
                             <button class="nav-link active" id="pills-one-tab" data-bs-toggle="pill"
-                                data-bs-target="#pills-one" type="button" role="tab" aria-controls="pills-one" aria-selected="true">Any Platform</button>
+                                data-bs-target="#pills-one" type="button" role="tab" aria-controls="pills-one"
+                                aria-selected="true">Any Platform</button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="pills-two-tab" data-bs-toggle="pill"
-                                data-bs-target="#pills-two" type="button" role="tab" aria-controls="pills-two" aria-selected="false">Any Cloud or On-premise</button>
+                                data-bs-target="#pills-two" type="button" role="tab" aria-controls="pills-two"
+                                aria-selected="false">Any Cloud or On-premise</button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="pills-three-tab" data-bs-toggle="pill"
@@ -186,79 +188,83 @@
                     <div class="tab-content" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-one" role="tabpanel"
                             aria-labelledby="pills-one-tab">
-                                <div class="container">
-                                    <div class="row align-items-center">
-                                        <div class="col-md-6">
-                                            <p>
-                                                Experience flexibility like never before. AlgoBulls adapts to your preferred platform – whether it's a web app, mobile apps, Jupyter notebooks, or CLIs.
-                                            </p>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
-                                        </div>
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-md-6">
+                                        <p>
+                                            Experience flexibility like never before. AlgoBulls adapts to your preferred
+                                            platform – whether it's a web app, mobile apps, Jupyter notebooks, or CLIs.
+                                        </p>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
-                        <div class="tab-pane fade" id="pills-two" role="tabpanel"
-                            aria-labelledby="pills-two-tab">
-                                <div class="container">
-                                    <div class="row align-items-center">
-                                        <div class="col-md-6">
-                                            <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>
-                                                Enjoy the freedom of choice. AlgoBulls Cloud, your cloud, or on-premise – deploy AlgoBulls’ solutions wherever you want, ensuring 100% IP protection at all times.
-                                            </p>
-                                        </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-two" role="tabpanel" aria-labelledby="pills-two-tab">
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-md-6">
+                                        <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <p>
+                                            Enjoy the freedom of choice. AlgoBulls Cloud, your cloud, or on-premise –
+                                            deploy AlgoBulls’ solutions wherever you want, ensuring 100% IP protection
+                                            at all times.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
-                        <div class="tab-pane fade" id="pills-three" role="tabpanel"
-                            aria-labelledby="pills-three-tab">
-                                <div class="container">
-                                    <div class="row align-items-center">
-                                        <div class="col-md-6">
-                                            <p>
-                                                Break free from limitations. Algo Trade seamlessly on Equities, F&O, Commodity, Currency across NASDAQ, NYSE, NSE, BSE and more with the broker of your choice.
-                                            </p>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
-                                        </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-three" role="tabpanel" aria-labelledby="pills-three-tab">
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-md-6">
+                                        <p>
+                                            Break free from limitations. Algo Trade seamlessly on Equities, F&O,
+                                            Commodity, Currency across NASDAQ, NYSE, NSE, BSE and more with the broker
+                                            of your choice.
+                                        </p>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="pills-four" role="tabpanel"
-                            aria-labelledby="pills-four-tab">
-                                <div class="container">
-                                    <div class="row align-items-center">
-                                        <div class="col-md-6">
-                                            <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>
-                                                Unleash the power of generative AI. Translate your algo trading ideas into reality with ease by generating strategy codes and parameters through simple prompts in plain English.
-                                            </p>
-                                        </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-four" role="tabpanel" aria-labelledby="pills-four-tab">
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-md-6">
+                                        <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <p>
+                                            Unleash the power of generative AI. Translate your algo trading ideas into
+                                            reality with ease by generating strategy codes and parameters through simple
+                                            prompts in plain English.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="pills-five" role="tabpanel"
-                            aria-labelledby="pills-five-tab">
-                                <div class="container">
-                                    <div class="row align-items-center">
-                                        <div class="col-md-6">
-                                            <p>
-                                                Leverage a library of tested and proven strategy codes, saving you time and providing a foundation for successful algo trading strategies.
-                                            </p>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
-                                        </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-five" role="tabpanel" aria-labelledby="pills-five-tab">
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-md-6">
+                                        <p>
+                                            Leverage a library of tested and proven strategy codes, saving you time and
+                                            providing a foundation for successful algo trading strategies.
+                                        </p>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <img src="https://algobulls.com/img/python-vision.svg" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -266,6 +272,47 @@
     </div>
 </section>
 <!-- OUR SOLUTION -->
+
+<!-- SUPPORTED EXCHANGES -->
+<section class="supported-exchanges">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4 class="subheading">
+                    SUPPORTED EXCHANGES
+                </h4>
+            </div>
+            <div class="col-md-12">
+                <div class="supported-exc">
+                    <ul>
+                        <li>
+                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/us-flag.png" class="img-fluid">
+                        </li>
+                        <li>
+                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/us-flag.png" class="img-fluid">
+                        </li>
+                        <li>
+                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/us-flag.png" class="img-fluid">
+                        </li>
+                        <li>
+                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/us-flag.png" class="img-fluid">
+                        </li>
+                        <li>
+                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/us-flag.png" class="img-fluid">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SUPPORTED EXCHANGES -->
 
 <?php include_once('./include/trading-excellence.php') ?>
 <?php include_once('./include/footer.php') ?>
