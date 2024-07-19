@@ -317,36 +317,48 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class = "main">
-  <div class = "column expanded"> 
-    <div class = "inner-element active">
-      <h2>Coastal Caves</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.       Ut elit tellus, luctus nec ullamcorper mattis, pulvinar           dapibus leo.Lorem ipsum dolor sit amet, consectetur               adipiscing elit. Ut elit tellus, luctus nec ullamcorper           mattis, pulvinar dapibus leo.</p>          
-    </div>
-    <div class="icons"> <i class="fa-regular fa-gem"> </i> </div>
-  </div>
-    <div class = "column"> 
-    <div class = "inner-element">
-      <h2>Coastal Caves</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.       Ut elit tellus, luctus nec ullamcorper mattis, pulvinar           dapibus leo.Lorem ipsum dolor sit amet, consectetur               adipiscing elit. Ut elit tellus, luctus nec ullamcorper           mattis, pulvinar dapibus leo.</p>
-    </div>
-      <div class="icons"> <i class="fa-regular fa-heart"></i> </i> </div>
-  </div>
-    <div class = "column"> 
-    <div class = "inner-element">
-      <h2>Coastal Caves</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.       Ut elit tellus, luctus nec ullamcorper mattis, pulvinar           dapibus leo.Lorem ipsum dolor sit amet, consectetur               adipiscing elit. Ut elit tellus, luctus nec ullamcorper           mattis, pulvinar dapibus leo.</p>
-    </div>
-      <div class="icons"> <i class="fa-solid fa-water"></i></i> </div>
-  </div>
-    <div class = "column"> 
-    <div class = "inner-element">
-      <h2>Coastal Caves</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.       Ut elit tellus, luctus nec ullamcorper mattis, pulvinar           dapibus leo.Lorem ipsum dolor sit amet, consectetur               adipiscing elit. Ut elit tellus, luctus nec ullamcorper           mattis, pulvinar dapibus leo.</p>
-    </div>
-      <div class="icons"> <i class="fa-solid fa-tree"></i> </div>
-  </div>
-</div>
+                <div class="main">
+                    <div class="column expanded">
+                        <div class="inner-element active">
+                            <h2>Coastal Caves</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
+                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
+                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            </p>
+                        </div>
+                        <div class="icons"> <i class="fa-regular fa-gem"> </i> </div>
+                    </div>
+                    <div class="column">
+                        <div class="inner-element">
+                            <h2>Coastal Caves</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
+                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
+                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            </p>
+                        </div>
+                        <div class="icons"> <i class="fa-regular fa-heart"></i> </i> </div>
+                    </div>
+                    <div class="column">
+                        <div class="inner-element">
+                            <h2>Coastal Caves</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
+                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
+                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            </p>
+                        </div>
+                        <div class="icons"> <i class="fa-solid fa-water"></i></i> </div>
+                    </div>
+                    <div class="column">
+                        <div class="inner-element">
+                            <h2>Coastal Caves</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
+                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
+                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            </p>
+                        </div>
+                        <div class="icons"> <i class="fa-solid fa-tree"></i> </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
