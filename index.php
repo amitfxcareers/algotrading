@@ -290,19 +290,19 @@
                             <img src="assets/images/us-flag.png" class="img-fluid">
                         </li>
                         <li>
-                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/nyse.png" class="img-fluid">
                             <img src="assets/images/us-flag.png" class="img-fluid">
                         </li>
                         <li>
-                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/nse.jpg" class="img-fluid">
                             <img src="assets/images/us-flag.png" class="img-fluid">
                         </li>
                         <li>
-                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/bse.png" class="img-fluid">
                             <img src="assets/images/us-flag.png" class="img-fluid">
                         </li>
                         <li>
-                            <img src="assets/images/nasdaq.png" class="img-fluid">
+                            <img src="assets/images/mcxsx.png" class="img-fluid">
                             <img src="assets/images/us-flag.png" class="img-fluid">
                         </li>
                     </ul>

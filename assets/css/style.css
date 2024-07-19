@@ -526,7 +526,7 @@ footer{
 .supported-exc li {
     float: left;
     display: grid;
-    gap: 10px;
+    gap: 20px;
     width: 20%;
 }
 .supported-exc li img{
