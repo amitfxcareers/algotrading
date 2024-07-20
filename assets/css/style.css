@@ -602,6 +602,14 @@ footer{
   border-radius: 0px 10px 10px 0px;
 }
 
+.column:nth-child(5) {
+  
+  background-image: url('http://dmmotionarts.com/wp-content/uploads/2024/02/Footer-1.jpg');
+  background-size:cover;
+  background-position:center center;
+  
+}
+
 /*Border Styling for device width below 1024px, Tablet/Mobile*/
 @media(max-width:1024px){
   

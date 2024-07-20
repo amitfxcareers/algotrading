@@ -320,40 +320,45 @@
                 <div class="main">
                     <div class="column expanded">
                         <div class="inner-element active">
-                            <h2>Coastal Caves</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
-                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            <h2>Market Professional</h2>
+                            <p>
+                                Wants to invest in the capital market.
                             </p>
                         </div>
                         <div class="icons"> <i class="fa-regular fa-gem"> </i> </div>
                     </div>
                     <div class="column">
                         <div class="inner-element">
-                            <h2>Coastal Caves</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
-                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            <h2>Stress-Free Trading</h2>
+                            <p>
+                                Approaches AlgoTrading to get a tailor made strategy which is fully automated and requires no manual intervention during live trading. 
                             </p>
                         </div>
                         <div class="icons"> <i class="fa-regular fa-heart"></i> </i> </div>
                     </div>
                     <div class="column">
                         <div class="inner-element">
-                            <h2>Coastal Caves</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
-                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            <h2>End-to-End Automation</h2>
+                            <p>
+                                From complete monitoring of the market to grabbing the right investment opportunities for you, AlgoBulls leading-edge trading platform does all the work for you.
                             </p>
                         </div>
                         <div class="icons"> <i class="fa-solid fa-water"></i></i> </div>
                     </div>
                     <div class="column">
                         <div class="inner-element">
-                            <h2>Coastal Caves</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
-                                ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            <h2>Broker</h2>
+                            <p>
+                                Get complete freedom from inconvenient manual order placement as AlgoBulls places order on your behalf to your preferred broking house, without you having to sit through the process yourself.
+                            </p>
+                        </div>
+                        <div class="icons"> <i class="fa-solid fa-tree"></i> </div>
+                    </div>
+                    <div class="column">
+                        <div class="inner-element">
+                            <h2>Exchange</h2>
+                            <p>
+                                As your order gets routed to the exchange with negligible latency, thanks to our powerful algos, you get to trade at the best price without compromising on anything.
                             </p>
                         </div>
                         <div class="icons"> <i class="fa-solid fa-tree"></i> </div>
