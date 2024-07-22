@@ -500,7 +500,8 @@ footer{
 }
 .our_solutions_list .nav-link{
     color: var(--primary);
-    padding: 10px 30px;
+    padding: 10px 15px;
+    font-size: 20px;
 }
 .our_solutions_list .list_solutions{
     background: var(--light-blue);
@@ -509,7 +510,7 @@ footer{
 }
 .our_solutions_list .nav-pills .nav-link.active{
     background: var(--secondary);
-    padding: 10px 30px;
+    padding: 10px 15px;
 }
 .our_solutions_list #pills-tabContent {
     padding: 50px 0;

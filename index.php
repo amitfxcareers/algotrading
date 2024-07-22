@@ -158,7 +158,7 @@
         <div class="row mt-5">
             <div class="col-md-12">
                 <div class="our_solutions_list text-center">
-                    <ul class="nav nav-pills mb-3 list_solutions" id="pills-tab" role="tablist">
+                    <ul class="nav nav-pills justify-content-center mb-4 list_solutions" id="pills-tab" role="tablist">
                         <li class="nav-item" role="presentation">
                             <button class="nav-link active" id="pills-one-tab" data-bs-toggle="pill"
                                 data-bs-target="#pills-one" type="button" role="tab" aria-controls="pills-one"
