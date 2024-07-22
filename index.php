@@ -192,8 +192,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <p>
-                                            Experience flexibility like never before. AlgoBulls adapts to your preferred
-                                            platform – whether it's a web app, mobile apps, Jupyter notebooks, or CLIs.
+                                            Experience flexibility like never before. AlgoTrading adapts to your preferred platform – whether it's a web app, mobile apps, Jupyter notebooks, or CLIs.
                                         </p>
                                     </div>
                                     <div class="col-md-6">
@@ -210,8 +209,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <p>
-                                            Enjoy the freedom of choice. AlgoBulls Cloud, your cloud, or on-premise –
-                                            deploy AlgoBulls’ solutions wherever you want, ensuring 100% IP protection
+                                            Enjoy the freedom of choice. AlgoTrading Cloud, your cloud, or on-premise – deploy AlgoTrading’s solutions wherever you want, ensuring 100% IP protection
                                             at all times.
                                         </p>
                                     </div>
@@ -223,8 +221,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <p>
-                                            Break free from limitations. Algo Trade seamlessly on Equities, F&O,
-                                            Commodity, Currency across NASDAQ, NYSE, NSE, BSE and more with the broker
+                                            Break free from limitations. Algo Trade seamlessly on Equities, F&O, Commodity, Currency across NASDAQ, NYSE, NSE, BSE and more with the broker
                                             of your choice.
                                         </p>
                                     </div>
@@ -242,8 +239,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <p>
-                                            Unleash the power of generative AI. Translate your algo trading ideas into
-                                            reality with ease by generating strategy codes and parameters through simple
+                                            Unleash the power of generative AI. Translate your algo trading ideas into reality with ease by generating strategy codes and parameters through simple
                                             prompts in plain English.
                                         </p>
                                     </div>
@@ -255,8 +251,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <p>
-                                            Leverage a library of tested and proven strategy codes, saving you time and
-                                            providing a foundation for successful algo trading strategies.
+                                            Leverage a library of tested and proven strategy codes, saving you time and providing a foundation for successful algo trading strategies.
                                         </p>
                                     </div>
                                     <div class="col-md-6">
@@ -316,6 +311,16 @@
 <section class="custom-pointers">
     <div class="container">
         <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="mainheading">
+                    How can AlgoTrading empower your trading pursuits
+                </h2>
+                <p class="primary-para">
+                   With our premier DIY (Do-It-Yourself) full code algo trading infrastructure PHOENIX, you can let your trading ideas run wild, and create simple to complex strategies without worrying about the technical complexities. 
+                </p>
+            </div>
+        </div>
+        <div class="row mt-4">
             <div class="col-md-12">
                 <div class="main">
                     <div class="column expanded">
@@ -325,7 +330,7 @@
                                 Wants to invest in the capital market.
                             </p>
                         </div>
-                        <div class="icons"> <i class="fa-regular fa-gem"> </i> </div>
+                        <div class="icons"> <i class="fa fa-user" aria-hidden="true"></i></div>
                     </div>
                     <div class="column">
                         <div class="inner-element">
@@ -334,25 +339,25 @@
                                 Approaches AlgoTrading to get a tailor made strategy which is fully automated and requires no manual intervention during live trading. 
                             </p>
                         </div>
-                        <div class="icons"> <i class="fa-regular fa-heart"></i> </i> </div>
+                        <div class="icons"> <i class="fa-solid fa-chart-simple"></i> </div>
                     </div>
                     <div class="column">
                         <div class="inner-element">
                             <h2>End-to-End Automation</h2>
                             <p>
-                                From complete monitoring of the market to grabbing the right investment opportunities for you, AlgoBulls leading-edge trading platform does all the work for you.
+                                From complete monitoring of the market to grabbing the right investment opportunities for you, AlgoTrading leading-edge trading platform does all the work for you.
                             </p>
                         </div>
-                        <div class="icons"> <i class="fa-solid fa-water"></i></i> </div>
+                        <div class="icons"> <i class="fa-solid fa-robot"></i> </div>
                     </div>
                     <div class="column">
                         <div class="inner-element">
                             <h2>Broker</h2>
                             <p>
-                                Get complete freedom from inconvenient manual order placement as AlgoBulls places order on your behalf to your preferred broking house, without you having to sit through the process yourself.
+                                Get complete freedom from inconvenient manual order placement as AlgoTrading places order on your behalf to your preferred broking house, without you having to sit through the process yourself.
                             </p>
                         </div>
-                        <div class="icons"> <i class="fa-solid fa-tree"></i> </div>
+                        <div class="icons"> <i class="fa-solid fa-users"></i> </div>
                     </div>
                     <div class="column">
                         <div class="inner-element">
@@ -361,7 +366,7 @@
                                 As your order gets routed to the exchange with negligible latency, thanks to our powerful algos, you get to trade at the best price without compromising on anything.
                             </p>
                         </div>
-                        <div class="icons"> <i class="fa-solid fa-tree"></i> </div>
+                        <div class="icons"> <i class="fa-brands fa-stack-exchange"></i> </div>
                     </div>
                 </div>
             </div>

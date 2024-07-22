@@ -571,7 +571,7 @@ footer{
 
 .column:nth-child(1) {
   
-  background-image: url('http://dmmotionarts.com/wp-content/uploads/2024/01/anders-jilden-cYrMQA7a3Wc-unsplash.jpg');
+  background-image: url('../images/img-1.jpg');
   background-size:cover;
   background-position:center center;
   border-radius: 10px 0px 0px 10px;
@@ -580,7 +580,7 @@ footer{
 
 .column:nth-child(2) {
   
-  background-image: url('http://dmmotionarts.com/wp-content/uploads/2024/02/Footer-1.jpg');
+  background-image: url('../images/img-2.jpg');
   background-size:cover;
   background-position:center center;
   
@@ -588,7 +588,7 @@ footer{
 
 .column:nth-child(3) {
   
-  background-image: url('http://dmmotionarts.com/wp-content/uploads/2024/03/nathan-dumlao-ciO5L8pin8A-unsplash-1.jpg');
+  background-image: url('../images/img-3.jpg');
   background-size:cover;
   background-position:center center;
   
@@ -596,18 +596,29 @@ footer{
 
 .column:nth-child(4) {
   
-  background-image: url('http://dmmotionarts.com/wp-content/uploads/2024/01/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg');
+  background-image: url('../images/img-4.jpg');
   background-size:cover;
   background-position:center center;
-  border-radius: 0px 10px 10px 0px;
 }
 
 .column:nth-child(5) {
   
-  background-image: url('http://dmmotionarts.com/wp-content/uploads/2024/02/Footer-1.jpg');
+  background-image: url('../images/img-5.jpg');
   background-size:cover;
   background-position:center center;
+  border-radius: 0px 10px 10px 0px;
   
+}
+.expanded:after {
+    content: '';
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+    pointer-events: none;
 }
 
 /*Border Styling for device width below 1024px, Tablet/Mobile*/
@@ -709,11 +720,10 @@ footer{
 }
 
 .icons {
-  
   position:absolute;
   bottom:20px;
   left:18px;
-  font-size:40px;
+/*  font-size:40px;*/
   padding:20px;
   background:white;
   z-index:2;
@@ -733,4 +743,7 @@ footer{
   left:0;
   bottom:0;
   
+}
+.custom-pointers{
+    padding: 80px 0;
 }
