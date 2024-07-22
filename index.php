@@ -376,5 +376,85 @@
 
 <!-- SUPPORTED EXCHANGES -->
 
+<!-- WHAT WE OFFER -->
+<section class="what-we-offer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h4 class="subheading">
+                    WHAT WE OFFER
+                </h4>
+                <h2 class="mainheading">
+                    We have algorithmic trading solutions for everyone Retail Solutions
+                </h2>
+            </div>
+        </div>
+        <hr class="hr-line">
+        <div class="row mt-5">
+            <div class="col-md-3">
+            <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+               <button class="nav-link active mb-3" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                  <div class="d-flex align-items-center justify-content-center gap-3">
+                     <h5 class="card-title fw-semibold mb-0">Retail Solutions</h5>
+                  </div>
+                  
+               </button>
+               <button class="nav-link mb-3" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                  <div class="d-flex align-items-center justify-content-center gap-3">
+                     <h5 class="card-title fw-semibold mb-0">Enterprise Solutions</h5>
+                  </div>
+               </button>
+            </div>
+         </div>
+         <div class="col-md-9">
+            <div class="tab-content" id="v-pills-tabContent">
+               <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="we-offer">
+                                <h4 class="mainheading">
+                                    Phoenix - Our DIY Retail solution
+                                </h4>
+                                <img src="https://algobulls.com/img/infra-img.svg" class="img-fluid">
+                                <a class="cta_one" href="/phoenix" style="width: 100%">Explore Phoenix</a>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="we-offer">
+                                <h4 class="mainheading">
+                                    Odyssey - Our DFY Retail solution
+                                </h4>
+                                <img src="https://algobulls.com/img/b2cEntry.svg" class="img-fluid">
+                                <a class="cta_one" href="/phoenix" style="width: 100%">Explore Phoenix</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               </div>
+               <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="we-offer">
+                                <h4 class="mainheading">
+                                    Enterprises
+                                </h4>
+                                <img src="https://algobulls.com/img/b2bEntry.svg" class="img-fluid">
+                                <a class="cta_one" href="/phoenix" style="width:100%">Explore Phoenix</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               </div>
+            </div>
+         </div>
+        </div>
+    </div>
+</section>
+
+<!-- WHAT WE OFFER -->
+
+
 <?php include_once('./include/trading-excellence.php') ?>
 <?php include_once('./include/footer.php') ?>
