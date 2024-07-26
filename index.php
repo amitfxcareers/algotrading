@@ -456,5 +456,23 @@
 <!-- WHAT WE OFFER -->
 
 
+<!-- how it works -->
+<section class="how-it-works">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h4 class="subheading">
+                    WHAT WE OFFER
+                </h4>
+                <h2 class="mainheading">
+                    We have algorithmic trading solutions for everyone Retail Solutions
+                </h2>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- how it works -->
+
+
 <?php include_once('./include/trading-excellence.php') ?>
 <?php include_once('./include/footer.php') ?>
