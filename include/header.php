@@ -127,7 +127,7 @@
             <div class="offcanvas-body p-0">
                <div class="mobile-menu-wrap">
                   <ul class="mobile-menu-list">
-                     <li>
+                     <!-- <li>
                         <a href="" class="menu-link moblie-dropdwon">Trading <i class="fa-solid fa-chevron-down"></i></a>
                         <div class="dropdown-mb-menu">
                            <ul>
@@ -169,8 +169,8 @@
                               </li>
                            </ul>
                         </div>
-                     </li>
-                     <li>
+                     </li> -->
+                     <!-- <li>
                         <a href="" class="menu-link moblie-dropdwon">Tools <i class="fa-solid fa-chevron-down"></i></a>
                         <div class="dropdown-mb-menu">
                            <ul>
@@ -194,8 +194,8 @@
                               </li>
                            </ul>
                         </div>
-                     </li>
-                     <li>
+                     </li> -->
+                     <!-- <li>
                         <a href="" class="menu-link moblie-dropdwon">Partners <i class="fa-solid fa-chevron-down"></i></a>
                         <div class="dropdown-mb-menu">
                            <ul>
@@ -216,8 +216,8 @@
                               </li>
                            </ul>
                         </div>
-                     </li>
-                     <li>
+                     </li> -->
+                     <!-- <li>
                         <a href="" class="menu-link moblie-dropdwon">Promos <i class="fa-solid fa-chevron-down"></i></a>
                         <div class="dropdown-mb-menu">
                            <ul>
@@ -229,8 +229,8 @@
                               </li>
                            </ul>
                         </div>
-                     </li>
-                     <li>
+                     </li> -->
+                     <!-- <li>
                         <a href="" class="menu-link moblie-dropdwon">About <i class="fa-solid fa-chevron-down"></i></a>
                         <div class="dropdown-mb-menu">
                            <ul>
@@ -254,12 +254,12 @@
                               </li>
                            </ul>
                         </div>
+                     </li> -->
+                     <li>
+                        <a href="https://algotrading.nxgtech.io/" class="menu-link">Home</a>
                      </li>
                      <li>
-                        <a href="https://education.nxgmarkets.com/" class="menu-link">Education</a>
-                     </li>
-                     <li>
-                        <a href="blog.php" class="menu-link">Blog</a>
+                        <a href="pricing.php" class="menu-link">Pricing</a>
                      </li>
                      <li class="ps-2 mt-4">
                         <a href="https://my.nxgmarkets.com/" class=" bttn-primary">Login</a>

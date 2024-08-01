@@ -5,7 +5,7 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <div class="banner-content">
-                    <h1 class=primary-heading>
+                    <h1 class="primary-heading">
                         Create and Execute <span>Simple to Complex</span> Algo Trading Strategies with Ease
                     </h1>
                     <p class="primary-para">
