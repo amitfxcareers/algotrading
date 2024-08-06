@@ -26,7 +26,7 @@
             <div class="col-md-6">
                 <div class="hero-empowerment-right-content">
                     <div class="top-content">
-                        <img class="img-fluid mobile" src="https://wpriverthemes.com/HTML/synck/assets/imgs/bg1.png"
+                        <img class="img-fluid mobile" src="assets/images/bg1.png"
                             alt="Empowerment">
                         <div class="experience-box simple-shadow bounce-in">
                             <div class="experience-body d-flex align-items-center">
